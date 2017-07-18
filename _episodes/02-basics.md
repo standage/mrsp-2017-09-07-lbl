@@ -3,44 +3,42 @@ title: "Basics"
 teaching: 15
 exercises: 10
 questions:
-- "How should I manage work using version control?"
+- "How should I organize my research software project?"
 - "How should I handle tasks I do repeatedly?"
 - "How should I handle tasks that need to be done repeatedly, but computers can't do automatically?"
 objectives:
-- "Explain how to use feature branches to manage software development."
+- "Explain Noble's rules and emphasize the principle of organizing and naming files to reflect their content or purpose."
 - "Explain what build managers were originally designed to do, and what else they are now used to do."
 - "Make a build file self-explaining."
 - "Explain when to use checklists rather than a build manager."
 keypoints:
-- "Use version control for everything created manually, not just code."
-- "Create a new branch for each feature."
-- "Only use that branch for that feature."
-- "Merge and delete the branch when the feature is complete."
+- "Name each project component (code, data, metadata, etc.) according to its content or purpose."
+- "Group similar project files into dedicated directories."
+- "Take advantage of widely used project organization conventions unless there is a compelling reason not to."
 - "Use a build manager to manage repetitive tasks."
 - "Make build files explain themselves."
 - "Use checklists for tasks that have to be done repeatedly, but can't be done by a computer."
 - "Have new contributors go through checklists to look for omissions and inaccuracies."
 ---
 
+## Project organization
+
+*   Project organization is like a diet
+    *   There is no such thing as "no diet", you're "dieting" whether it's intentional or not; it's either a *good* diet or a *poor* diet
+    *   Similarly, there is no such thing as "no project organization"; your project is either organized *well* or organized *poorly*
+*   An example: Noble's rules
+    *   Based on [this paper](http://dx.doi.org/doi:10.1371/journal.pcbi.1000424)
+    *   Code in `src/`, raw data in `data/`, programs in `bin/`, documentation and/or manuscripts in `doc/`, etc.
+*   This isn't the *only* way to organize research software projects. What principles can we generalize?
+    *   Name files according to their content or purpose.
+    *   Group similar files together in appropriately named directories.
+    *   Take advantage of naming and organization conventions unless there is a compelling reason to "roll your own".
+
 ## DRY: Don't Repeat Yourself
 
 *   Usually applied to nouns (code)
 *   Just as true for verbs (actions)
 *   The only thing you can accomplish by typing something repeatedly is to get it wrong
-
-## Version Control
-
-*   We assume your project is already under version control
-    *   If not, this may not be the right course for you
-*   We also assume you use version control for everything created by human beings
-    *   A major reason for the existence and survival of tools like LaTeX and Markdown
-    *   Collaboration would be a *lot* easier if version control systems knew
-        how to manage rich document formats...
-*   Use a *[feature branch workflow]({{"/reference/#feature-branch" | absolute_url}})*
-    *   Designate one branch as the main development branch (typically called `master`)
-    *   Create a new branch for each feature from `master`
-    *   Only use that branch for that feature
-    *   Merge the branch when the feature is done
 
 ## Build Manager
 
