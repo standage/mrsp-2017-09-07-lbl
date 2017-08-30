@@ -27,7 +27,6 @@ keypoints:
     *   Create a new branch for each feature from `master`
     *   Only use that branch for that feature
     *   Merge the branch when the feature is done
-*   Diagram fork model vs branch model of collaboration
 
 > ## How Do You Manage Your Repository?
 >
