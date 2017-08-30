@@ -1,6 +1,6 @@
 ---
-title: "Issues"
-teaching: 15
+title: "Issue Trackers"
+teaching: 5
 exercises: 10
 questions:
 - "How can I keep track of what needs to be done?"

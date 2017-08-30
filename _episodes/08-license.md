@@ -3,7 +3,8 @@ title: "Choose a License"
 teaching: 5
 exercises: 0
 questions:
-- "What licensing information should I include with my work?"
+- "How should I license my project?"
+- "How do I want to engage the wider research community?"
 objectives:
 - "Explain why adding licensing information to a repository is important."
 - "Choose a proper license."

@@ -1,5 +1,5 @@
 ---
-title: "Coffee break (am)"
+title: "Coffee Break (am)"
 teaching: 10
 exercises: 0
 ---

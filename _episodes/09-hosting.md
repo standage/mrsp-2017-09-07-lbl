@@ -1,5 +1,5 @@
 ---
-title: "Hosting"
+title: "Host Your Project"
 teaching: 10
 exercises: 5
 questions:

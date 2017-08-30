@@ -1,6 +1,6 @@
 ---
 title: "Make the Software Robust"
-teaching: 10
+teaching: 15
 exercises: 15
 questions:
 - "How can I make it easier for people to find out what my project does?"

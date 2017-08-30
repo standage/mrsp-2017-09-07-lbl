@@ -1,5 +1,5 @@
 ---
-title: "Packaging"
+title: "Distribute Your Software"
 teaching: 5
 exercises: 10
 questions:
