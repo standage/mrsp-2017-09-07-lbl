@@ -1,5 +1,5 @@
 ---
-title: "Mentor"
+title: "Mentorship"
 teaching: 5
 exercises: 10
 questions:
