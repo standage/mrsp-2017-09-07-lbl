@@ -1,7 +1,7 @@
 ---
 title: "Test Driven Development"
 teaching: 10
-exercises: 15
+exercises: 30
 questions:
 - "How can figure out what my code is supposed to do?"
 - "How can I stay focused on building what I actually need to?"

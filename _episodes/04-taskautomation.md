@@ -1,6 +1,6 @@
 ---
 title: "Automate Frequent Tasks"
-teaching: 15
+teaching: 10
 exercises: 10
 questions:
 - "How should I handle tasks I do repeatedly?"

@@ -1,6 +1,6 @@
 ---
 title: "Lunch"
-teaching: 90
+teaching: 75
 exercises: 0
 ---
 
