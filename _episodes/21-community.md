@@ -1,7 +1,7 @@
 ---
 title: "Build a Community"
 teaching: 5
-exercises: 10
+exercises: 5
 questions:
 - "How can I turn a project into a community?"
 objectives:

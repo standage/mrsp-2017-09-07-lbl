@@ -1,7 +1,7 @@
 ---
 title: "Marketing"
-teaching: 15
-exercises: 10
+teaching: 25
+exercises: 20
 questions:
 - "How can I raise money for my project?"
 objectives:
@@ -21,9 +21,20 @@ keypoints:
         *   Twitter account of a "big shot" in the field
 *   Don't be afraid to [market your project][kuchner-marketing]
     *   If it really is good, you should tell people about it
-*   The concert t-shirt model
+*   The concert merchandise model
     *   Your grant proposals are your product
     *   Your papers are your advertisements
+*   What do your grant proposals promise? And what part does software play in your research?
+    *   New theories?
+    *   New models?
+    *   New results?
+    *   New tools?
+*   We should clarify what marketing means
+    *   It is not being pushy
+    *   It is not shameless self-promotion
+    *   "Marketing is the craft of seeing things from other people's perspective, understanding their wants and needs, and finding ways to meet them." --Marc Kuchner
+    *   It is connecting with others in a sincere way
+    *   It is ensuring our work is relevant to important people and their concerns
 *   Use social media and blogs
     *   Papers must be objective, social media posts don't
     *   Worst-case scenario: nobody will listen

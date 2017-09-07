@@ -22,8 +22,8 @@ keypoints:
 *   Much more to a research software project than just code:
     *   Data
     *   Organization
-    *   Communication
     *   Process
+    *   Communication (Knuth quote)
 *   This class will discuss:
     *   What a research software project needs to achieve its goals
     *   How to go from ad hoc solo project to reliable small-team project
